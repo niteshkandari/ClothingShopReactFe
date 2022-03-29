@@ -18,4 +18,4 @@ snapshot of the app -
 ![m5](https://user-images.githubusercontent.com/74185121/160634722-d348f5f5-ebfc-41d6-b5d9-8de5fc363b91.png)
 ![Uploading m6.png…]()
 ![m7](https://user-images.githubusercontent.com/74185121/160634770-030302ee-12d2-4fb9-879a-c5c439fef1d1.png)![m8](https://user-images.githubusercontent.com/74185121/160634806-0fa9739e-858e-4686-b70c-8ccdce623072.png)
-![m8](https://user-images.githubusercontent.com/74185121/160634858-d966752d-a355-45a6-8926-c8495ad89716.png)
+
